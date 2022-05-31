@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on YouTube [Enamuls Creation](https://www.youtube.com/channel/uczejipm0yle8rlnksxqnlqw)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, R Programming**
 
 - 👯 I’m looking to collaborate on GitHub [GitHub](https://github.com/Enamul-progr)
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://www.blogger.com/u/1/blog/posts/8245100192706042731](https://www.blogger.com/u/1/blog/posts/8245100192706042731)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, R Programming, Data Analysis, Data Science, Statistics, Machine Learning, Data Visualization, Data Clean, ggplot2**
 
 - 📫 How to reach me **prog.enamul@gmail.com**
 
